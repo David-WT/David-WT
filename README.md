@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @David-WT
-- 👀 I’m interested in Data
-- 🌱 I’m currently learning Data Science for Stock Market Trading
+- 👀 I’m interested in Big Data
+- 🌱 I’m currently learning Data Forecasting
 - 📫 Reach me by email: davidwinata789@gmail.com
 
 
